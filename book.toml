@@ -1,0 +1,5 @@
+[book]
+authors = ["Lucio Franco"]
+multilingual = false
+src = "src"
+title = "The Rust Async Book"
